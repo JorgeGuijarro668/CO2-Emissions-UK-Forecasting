@@ -162,8 +162,3 @@ The notebook includes:
 - Point forecasts  
 - 95% confidence intervals  
 - Forecast visualization (trend + uncertainty)  
-
----
-
-## 📁 Repository Structure
-
